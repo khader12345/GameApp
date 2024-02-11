@@ -1,1 +1,1 @@
-A program that allows practicing the fundamentals of building computer gaming applications which consists of, the process of building a program using an IDE, program structure using modules and program flow using sequences, branches, and loops. 
+
